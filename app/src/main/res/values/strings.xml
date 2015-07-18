@@ -18,4 +18,6 @@
 
     <string name="menu_logout_label">Logout</string>
 
+    <string name="GreenTeal_Color">#00c373</string>
+
 </resources>
